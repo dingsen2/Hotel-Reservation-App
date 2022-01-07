@@ -1,4 +1,4 @@
-# hotel_reservation_app
+# Hotel reservation App
 This hotel reservation App will allow customers to find and book a hotel room based on room availability.
 
 ## Installation
